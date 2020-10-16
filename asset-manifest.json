@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//richardg91-bien/formulario-react/static/css/main.5facb584.chunk.css",
+    "main.js": "/http//richardg91-bien/formulario-react/static/js/main.9b8ded4d.chunk.js",
+    "main.js.map": "/http//richardg91-bien/formulario-react/static/js/main.9b8ded4d.chunk.js.map",
+    "runtime-main.js": "/http//richardg91-bien/formulario-react/static/js/runtime-main.86bcbe07.js",
+    "runtime-main.js.map": "/http//richardg91-bien/formulario-react/static/js/runtime-main.86bcbe07.js.map",
+    "static/js/2.0907743c.chunk.js": "/http//richardg91-bien/formulario-react/static/js/2.0907743c.chunk.js",
+    "static/js/2.0907743c.chunk.js.map": "/http//richardg91-bien/formulario-react/static/js/2.0907743c.chunk.js.map",
+    "index.html": "/http//richardg91-bien/formulario-react/index.html",
+    "precache-manifest.a320ff05aff3263d0fd1f3e9451e2eed.js": "/http//richardg91-bien/formulario-react/precache-manifest.a320ff05aff3263d0fd1f3e9451e2eed.js",
+    "service-worker.js": "/http//richardg91-bien/formulario-react/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/http//richardg91-bien/formulario-react/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.0907743c.chunk.js.LICENSE.txt": "/http//richardg91-bien/formulario-react/static/js/2.0907743c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86bcbe07.js",
+    "static/js/2.0907743c.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.9b8ded4d.chunk.js"
+  ]
+}
